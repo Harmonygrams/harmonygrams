@@ -1,7 +1,7 @@
 [![MasterHead]
 <h1 align="center">Hi 👋, I'm Harmony</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<img alt="coding" width="400" align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fakshat-fsociety%2Fakshat-fsociety&psig=AOvVaw1uCUBzPX3WlPnKMikQRIYq&ust=1666968194558000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiIs9LSgPsCFQAAAAAdAAAAABAN](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img alt="coding" width="400" align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmonygrams&label=Profile%20views&color=0e75b6&style=flat" alt="harmonygrams" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmonygrams" alt="harmonygrams" /></a> </p>
@@ -12,15 +12,14 @@
 
 - 🌱 I’m currently learning **Web3Js, EtherJs & Solidity**
 
-- 👨‍💻 All of my projects are available at [chibuike.net](chibuike.net)
+- 👨‍💻 All of my projects are available at github or you can visit my website [chibuike.net](chibuike.net)
 
-- 📝 I regularly write articles on [https://medium.com/@web3harmony](https://medium.com/@web3harmony)
+- 📝 When I'm less busy, I write articles on [https://medium.com/@web3harmony](https://medium.com/@web3harmony)
 
 - 💬 Ask me about **MERN stack**
 
 - 📫 How to reach me **bluedonice@gmail.com**
 
-- ⚡ Fun fact **I have a great sense of humour**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
