@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmonygrams&label=Profile%20views&color=0e75b6&style=flat" alt="harmonygrams" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmonygrams" alt="harmonygrams" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pouncetwice" target="blank"><img src="https://img.shields.io/twitter/follow/pouncetwice?logo=twitter&style=for-the-badge" alt="pouncetwice" /></a> </p>
 
 - 🔭 Building and contributing immensely to [metclan](https://www.metclan.com)
@@ -23,9 +21,6 @@
 <a href="https://instagram.com/harmony.brr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmony.brr" height="30" width="40" /></a>
 <a href="https://medium.com/@web3harmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@web3harmony" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmonygrams&show_icons=true&locale=en&layout=compact" alt="harmonygrams" /></p>
 
