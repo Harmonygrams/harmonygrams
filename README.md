@@ -1,9 +1,9 @@
-<h1 align="center">I'm Chibuike Harmony</h1>
-<h3 align="center"> Your friendly coder who traded the frontend fireworks for some serious backend spellcasting.  💻✨
+<h1 align="left">I'm Chibuike Harmony</h1>
+<h4 align="left"> Your friendly coder who traded the frontend fireworks for some serious backend spellcasting.  💻✨
 
 Why the switch? Simple - I'm addicted to logic puzzles, obsessed with fortifying software security, and have a soft spot for databases. 🔒🔍
 
-Now fluent in Node.js And Typescript, I'm all about crafting robust backends that make applications sing. Let's chat! </h3>
+Now fluent in Node.js And Typescript, I'm all about crafting robust backends that make applications sing. Let's chat! </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmonygrams&label=Profile%20views&color=0e75b6&style=flat" alt="harmonygrams" /> </p>
 
@@ -12,14 +12,10 @@ Now fluent in Node.js And Typescript, I'm all about crafting robust backends tha
 - 📚 My current tech-stack **NodeJs,Typescript MongoDB,AWS,GraphQL,Postgres,MongoDB,MSQL**
 - 📫 How to reach me **bluedonice@gmail.com**
 - 📞 Phone: **+2348166211248**
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pouncetwice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pouncetwice" height="30" width="40" /></a>
 <a href="https://instagram.com/harmony.brr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harmony.brr" height="30" width="40" /></a>
 <a href="https://medium.com/@web3harmony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@web3harmony" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harmonygrams&show_icons=true&locale=en&layout=compact" alt="harmonygrams" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harmonygrams&show_icons=true&locale=en" alt="harmonygrams" /></p>
