@@ -11,8 +11,7 @@ Now fluent in Node.js And Typescript, I'm all about crafting robust backends tha
 
 - 📚 My current tech-stack **NodeJs,Typescript MongoDB,AWS,GraphQL,Postgres,MongoDB,MSQL**
 - 📫 How to reach me **bluedonice@gmail.com**
-- 📞 Phone: **+2348166211248**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pouncetwice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pouncetwice" height="30" width="40" /></a>
