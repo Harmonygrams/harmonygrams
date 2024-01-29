@@ -1,19 +1,17 @@
 <h1 align="center">I'm Chibuike Harmony</h1>
-<h3 align="center">A software engineer that's passionate about full-stack development and blockchain development</h3>
+<h3 align="center"> Your friendly coder who traded the frontend fireworks for some serious backend spellcasting.  💻✨
+
+Why the switch? Simple - I'm addicted to logic puzzles, obsessed with fortifying software security, and have a soft spot for databases. 🔒🔍
+
+Now fluent in Node.js And Typescript, I'm all about crafting robust backends that make applications sing. Let's chat! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmonygrams&label=Profile%20views&color=0e75b6&style=flat" alt="harmonygrams" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pouncetwice" target="blank"><img src="https://img.shields.io/twitter/follow/pouncetwice?logo=twitter&style=for-the-badge" alt="pouncetwice" /></a> </p>
 
-- 🔭 Building and contributing immensely to [metclan](https://www.metclan.com)
-
-- 👯 I've contributed to popular projects like [censusGpt](https://github.com/caesarHQ/textSQL)
-
-- 📝 I regularly write articles on [https://medium.com/@web3harmony](https://medium.com/@web3harmony)
-
-- 📚 My current tech-stack **Solidity, EthersJs, Web3Js, Hardhat, ReactJs, NextJs,Tailwind, NodeJs, MongoDB,**
-
+- 📚 My current tech-stack **NodeJs,Typescript MongoDB,AWS,GraphQL,Postgres,MongoDB,MSQL**
 - 📫 How to reach me **bluedonice@gmail.com**
+- 📞 Phone: **+2348166211248**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
